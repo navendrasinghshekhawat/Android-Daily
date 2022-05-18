@@ -1,0 +1,15 @@
+how to add events on the button :
+
+1. by using onClick property in the xml file
+
+2. handling event by implementing / using OnClickListener interface in java
+
+Event handling is a process to handle any event on button, list or any other component
+
+ Button  source b1
+ fan     listener   View.OnClickListener
+ wiring  registration
+
+
+Source     Listener interface          abstract method   registration method
+Button     OnClickLisetner             onClick           setOnClickListener(this)

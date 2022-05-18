@@ -1,0 +1,27 @@
+UI Components::
+TextView
+EditText
+Button
+AutoCompleteTextView
+MultiAutoCompleteTextView
+Spinner
+SeekBar
+Switch
+ImageView
+
+
+Layouts::
+Layout means arrangement of the components on the screen.
+1. Linear Layout
+2. Constraint Layout
+3. Table Layout
+4. Frame Layout
+5. Grid Layout
+
+By Default when you will create your first android application...You will get constrained Layout
+But...We can change the Layout as per our Requirement...
+
+Linear layout is very easy to use...Which is used to Arrange the components either horizontally or vertically...
+
+
+
