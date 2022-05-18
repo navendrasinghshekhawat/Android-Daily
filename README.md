@@ -1,5 +1,9 @@
 # Android-Daily
-<h2>DO NOT COPY CODE FROM HERE.
-  USE THIS REPOSITORY FOR LEARNING PURPOSES ONLY.
-  BE A CODER...CODE IT YOURSELF</h2>
-  <h4>First Program:<br> Java Files : <href url="https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/FirstProgram/app/src/main/java/com/example/firstprogram">here</href><br>XML files: <href url="https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/FirstProgram/app/src/main/res/layout">here</href></h4>
+## DO NOT COPY CODE FROM HERE. USE THIS REPOSITORY FOR LEARNING PURPOSES ONLY. BE A CODER...CODE IT YOURSELF!!!
+###  First Program:
+####  [Java Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/FirstProgram/app/src/main/java/com/example/firstprogram), [XML files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/FirstProgram/app/src/main/res/layout)
+--------------------------------------------------------------------------
+### Second Program:
+#### This Project contains lectures of day 2,3, and 4. Use accordingly.
+#### [Java Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/Secondprogram/app/src/main/java/com/example/secondprogram), [XML Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/Secondprogram/app/src/main/res/layout)
+--------------------------------------------------------------------------
