@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ThirdProgram_Button">
         <activity
+            android:name=".FifthProgram_radioButton"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".FourthProgram_AutoCompleteTextView"
             android:exported="true">
             <intent-filter>
