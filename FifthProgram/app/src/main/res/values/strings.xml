@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">5thProgram</string>
+
+    <string-array name="programmingLang">
+        <item>C</item>
+        <item>Cpp</item>
+        <item>C#</item>
+        <item>Python</item>
+        <item>Java</item>
+        <item>CSS</item>
+        <item>ML</item>
+    </string-array>
+</resources>

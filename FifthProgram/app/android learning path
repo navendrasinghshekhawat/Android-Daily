@@ -1,0 +1,19 @@
+1.directory structure
+2.how to create avd
+3.how to run first android program in avd
+4.how to create first android program
+5.EditText
+6.TextView
+7.Button
+8.AutoCompleteTextView
+9.MultiAutoCompleteTextView
+10.ArrayAdapter
+11.ListActivity
+12.ListView- 2 types programs
+13.Spinner-  3 types program
+14.EventHandling on components using Listeners
+17.EventHandling using onClick property in xml file
+18.RadioButton
+19.SeekBar
+20.Changing background colors
+21.ProgressBar
