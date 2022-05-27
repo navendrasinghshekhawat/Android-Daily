@@ -14,3 +14,7 @@
 ### Fifth Program:
 #### This Project contains lectures of day 7, 8, and 9. It might contain listview, spinner, seekbaar, arrayadaptor and progress bar.
 #### [Java Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/FifthProgram/app/src/main/java/com/example/fifthprogram), [XML Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/FifthProgram/app/src/main/res/layout)
+------------------------------------------------------------------------------
+### Sixth Program:
+#### This Project contains lectures of day 10,11. It might contain Linear Layout in Detail.
+#### [Java Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/DemoLinearLayout/app/src/main/java/com/example/demolinearlayout), [XML Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/DemoLinearLayout/app/src/main/res/layout)
