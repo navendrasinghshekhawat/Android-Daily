@@ -18,3 +18,7 @@
 ### Sixth Program:
 #### This Project contains lectures of day 10,11. It might contain Linear Layout in Detail.
 #### [Java Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/DemoLinearLayout/app/src/main/java/com/example/demolinearlayout), [XML Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/DemoLinearLayout/app/src/main/res/layout)
+----------------------------------------------------------------------------------
+### Scrollbar and Intent:
+#### This folder contains scroll view and intent.
+#### [Java Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/Demo_Scroll/app/src/main/java/com/example/demo_scroll), [XML Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/Demo_Scroll/app/src/main/res/layout)
