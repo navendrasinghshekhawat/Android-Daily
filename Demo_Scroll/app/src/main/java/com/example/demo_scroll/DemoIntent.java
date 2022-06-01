@@ -22,10 +22,19 @@ public class DemoIntent extends AppCompatActivity {
         b3=findViewById(R.id.button3);
         b4=findViewById(R.id.button4);
 
+//        b1.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                Intent i=new Intent(DemoIntent.this,DemoHorizontalScrollBar.class);
+//                startActivity(i);
+//            }
+//        });
+
         b1.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View view) {
-                Intent i=new Intent(DemoIntent.this,DemoHorizontalScrollBar.class);
+            public void onClick(View view)
+            {
+                Intent i=new Intent("com.example.EMAIL");
                 startActivity(i);
             }
         });
@@ -33,7 +42,7 @@ public class DemoIntent extends AppCompatActivity {
         b2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i=new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.ratindia.com/"));
+                Intent i=new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.ratindia.com"));
                 startActivity(i);
             }
         });
@@ -49,7 +58,7 @@ public class DemoIntent extends AppCompatActivity {
         b4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i=new Intent(Intent.ACTION_DIAL, Uri.parse("tel:9351467408"));
+                Intent i=new Intent(Intent.ACTION_CALL, Uri.parse("tel:9351467408"));
                 startActivity(i);
             }
         });
