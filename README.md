@@ -1,5 +1,9 @@
 # Android-Daily
 ## DO NOT COPY CODE FROM HERE. USE THIS REPOSITORY FOR LEARNING PURPOSES ONLY. BE A CODER...CODE IT YOURSELF!!!
+---------------------------------------------------------------------------------------------------
+###  Core JAVA Programs:
+####  [JAVA PROGRAMS FOLDER](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/JAVA%20Programs)
+-----------------------------------------------------------------------------
 ###  First Program:
 ####  [Java Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/FirstProgram/app/src/main/java/com/example/firstprogram), [XML files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/FirstProgram/app/src/main/res/layout)
 --------------------------------------------------------------------------
