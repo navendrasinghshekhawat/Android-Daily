@@ -1,0 +1,39 @@
+1.directory structure
+2.how to create avd
+3.how to create first android program and run first android program in avd
+4.Android app/activity life cycle
+5.EditText
+6.TextView
+7.Button
+8.AutoCompleteTextView
+9.MultiAutoCompleteTextView
+10.ArrayAdapter
+11.ListActivity
+12.ListView- 2 types programs
+13.Spinner-  3 types program
+14.EventHandling on components using Listeners
+15.Toast
+16.Toast styles and time
+17.EventHandling using onClick property in xml file
+18.RadioButton
+19.SeekBar
+20.Changing background colors
+21.ProgressBar
+22.LinearLayout
+23.Nested LinearLayout
+24.Event on RadioButton(no button)
+31-may-22
+        25.Horizontal scroll bar(HorizontalScrollView)
+        26.vertical scroll bar(ScrollView class)
+        27.Intent(Explicit and implicit)
+
+1-june-22
+        28.Intent: calling activity in the same project  using startActivity()
+        29.Intent: calling activity of another project but that must be already installed in ur device using startActivity()
+        30.Intent: passing some message to the calling activity via putStringExtra() using startActivity()
+        31.Intent: passing some message and receiving back  message using startActivityForResult()
+
+3-june-22
+       32.revision of Complete intent topic
+       33.Passing string array to next activity ,using Intent
+
