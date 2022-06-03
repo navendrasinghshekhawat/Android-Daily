@@ -27,8 +27,9 @@ public class DemoIntent2 extends AppCompatActivity implements View.OnClickListen
 
         //getting values from previous activity's intent
         Intent i=getIntent();
-        String s=i.getStringExtra("id");
-        tv.setText(s);
+       // String s=i.getStringExtra("id");
+          String s[]=i.getStringArrayExtra("id");
+        tv.setText(s[0]+"::"+s[1]);
       //--------------code end-----------------------------------
 
         b.setOnClickListener(this); //registration step

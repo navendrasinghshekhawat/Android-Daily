@@ -31,7 +31,10 @@ public class DemoIntent1 extends AppCompatActivity {
            public void onClick(View view) {
                String str=e1.getText().toString();
                Intent i=new Intent(getApplicationContext(),DemoIntent2.class);
-               i.putExtra("id",str);
+            //   i.putExtra("id",str);  //single value
+
+               String values[]={"abhishek","abhiraj"};
+               i.putExtra("id",values);  //pasing array
                startActivityForResult(i,3);
            }
        });

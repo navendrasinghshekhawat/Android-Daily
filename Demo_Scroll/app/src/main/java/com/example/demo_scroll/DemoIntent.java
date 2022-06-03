@@ -34,7 +34,7 @@ public class DemoIntent extends AppCompatActivity {
             @Override
             public void onClick(View view)
             {
-                Intent i=new Intent("com.example.EMAIL");
+                Intent i=new Intent("com.example.EMAIL1");
                 startActivity(i);
             }
         });
