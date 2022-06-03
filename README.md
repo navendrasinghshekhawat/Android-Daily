@@ -26,3 +26,4 @@
 ### Scrollbar and Intent:
 #### This folder contains scroll view and intent.
 #### [Java Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/Demo_Scroll/app/src/main/java/com/example/demo_scroll), [XML Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/Demo_Scroll/app/src/main/res/layout)
+#### [Intent Lecture](https://jamboard.google.com/d/1y6FlVMoehpPZWWY7ZuZU8TVyqs-PaDpOzAuK2wfOTFA/edit?usp=sharing)
