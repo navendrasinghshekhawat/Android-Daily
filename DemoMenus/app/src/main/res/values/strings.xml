@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DemoMenus</string>
+
+
+    <string-array name="mylist">
+        <item> Abhishek</item>
+        <item> Abhinav</item>
+        <item> Abhiraj</item>
+        <item> Abhimanyu</item>
+        <item> Abhi</item>
+        <item> Abhik</item>
+        <item> Abhijeet</item>
+        <item> Abhinandan</item>
+        <item> Bharat</item>
+        <item> Bharti</item>
+        <item> Raj</item>
+        <item> Raju</item>
+        <item> Rajmal</item>
+        <item> Rajkumar</item>
+        <item> Rajbhoj</item>
+    </string-array>
+</resources>
