@@ -27,3 +27,8 @@
 #### This folder contains scroll view and intent.
 #### [Java Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/Demo_Scroll/app/src/main/java/com/example/demo_scroll), [XML Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/Demo_Scroll/app/src/main/res/layout)
 #### [Intent Lecture](https://jamboard.google.com/d/1y6FlVMoehpPZWWY7ZuZU8TVyqs-PaDpOzAuK2wfOTFA/edit?usp=sharing)
+----------------------------------------------------------------------------------
+### Scrollbar and Intent:
+#### This folder contains OptionsMenu.
+#### Don't forget to check values folder under res...and menifest.xml.
+#### [Java Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/DemoMenus/app/src/main/java/com/example/demomenus), [XML Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/DemoMenus/app/src/main/res/layout)
