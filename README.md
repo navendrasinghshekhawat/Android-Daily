@@ -32,3 +32,11 @@
 #### This folder contains OptionsMenu and file handling.
 #### Don't forget to check values folder under res...and menifest.xml.
 #### [Java Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/DemoMenus/app/src/main/java/com/example/demomenus), [XML Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/DemoMenus/app/src/main/res/layout)
+------------------------------------------------------------------------------
+### Styles and Themes:
+#### This folder contains Styling And Themes.
+#### [Java Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/DemoMenus/app/src/main/java/com/example/demomenus), [XML Files](### Options menu and File Handling:
+#### This folder contains OptionsMenu and file handling.
+#### Don't forget to check values folder under res...and menifest.xml.
+#### [Java Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/DemoStyleTheme/app/src/main/java/com/example/demostyletheme), [XML Files](https://github.com/navendrasinghshekhawat/Android-Daily/tree/main/DemoMenus/app/src/main/res/layout)
+, [menifest file](https://github.com/navendrasinghshekhawat/Android-Daily/blob/main/DemoStyleTheme/app/src/main/AndroidManifest.xml)
