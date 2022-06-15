@@ -29,7 +29,9 @@ public class AddNewRecord extends AppCompatActivity {
              DBHelper obj=new DBHelper(this);
              long num=obj.save(s1,s2,s3);
             Toast.makeText(this,num+" record inserted!",Toast.LENGTH_LONG).show();
-
+            e1.setText(null);
+            e2.setText(null);
+            e3.setText(null);
 
         }
         if(v.getId()==R.id.btn2)

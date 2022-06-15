@@ -24,6 +24,21 @@ public class MainActivity extends AppCompatActivity
         {
             startActivity(new Intent(this,AddNewRecord.class));
         }
-
+        if(v.getId()==R.id.button2)
+        {
+            startActivity(new Intent(this,SearchRecord.class));
+        }
+        if(v.getId()==R.id.button3)
+        {
+            startActivity(new Intent(this,DeleteAllRecords.class));
+        }
+        if(v.getId()==R.id.button4)
+        {
+            startActivity(new Intent(this,SearchRecord.class));
+        }
+        if(v.getId()==R.id.button5)
+        {
+            startActivity(new Intent(this,ViewAllRecords.class));
+        }
     }
 }
