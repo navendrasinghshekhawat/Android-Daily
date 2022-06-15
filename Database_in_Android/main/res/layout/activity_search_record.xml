@@ -21,6 +21,13 @@
         android:text="Search"
         android:onClick="search"
         />
+  <Button
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/btn_delete_search"
+      android:text="Delete"
+      android:onClick="search"
+      />
   <ListView
       android:id="@+id/listview1"
       android:layout_width="match_parent"

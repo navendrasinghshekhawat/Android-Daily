@@ -66,6 +66,26 @@ public class DBHelper extends SQLiteOpenHelper
 
         return al;
     }
+    public int deleteASingleRecord(String uname)
+    {
+        SQLiteDatabase db=getWritableDatabase();
+
+        String str[]={uname};
+        int i=db.delete(tableName,"username=?",str);
+        //db.delete(tableName,"username=?",new String[]{uname});
+
+
+
+        db.close();
+        return i;
+    }
+    public int deleteAll()
+    {
+        SQLiteDatabase db=getWritableDatabase();
+        int i=db.delete(tableName,null,null);
+        db.close();
+        return i;
+    }
     public ArrayList searchARecord(String uname)
     {
             SQLiteDatabase db=getReadableDatabase();

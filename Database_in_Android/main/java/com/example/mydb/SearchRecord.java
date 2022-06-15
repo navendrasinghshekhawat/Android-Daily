@@ -27,7 +27,7 @@ public class SearchRecord extends AppCompatActivity {
         setContentView(R.layout.activity_search_record);
         listView=findViewById(R.id.listview1);
 
-        auto1=findViewById(R.id.auto);
+         auto1=findViewById(R.id.auto);
          obj=new DBHelper(this);
          ArrayList arrayList=obj.getUsername();
          ArrayAdapter adapter=new ArrayAdapter(this, android.R.layout.simple_dropdown_item_1line,arrayList);
@@ -38,19 +38,32 @@ public class SearchRecord extends AppCompatActivity {
 
     public void search(View v)
     {
-         String s=auto1.getSelectedItem().toString();
+        String s="";
+        s = auto1.getSelectedItem().toString();
+        if(v.getId()==R.id.btn_search) {
 
-         ArrayList alist=obj.searchARecord(s);
+           System.out.println("testing block3...."+s);
+
+            ArrayList alist = obj.searchARecord(s);
 
 //         if(alist!=null)
 //         {
-             ArrayAdapter adapter = new ArrayAdapter(this, android.R.layout.simple_dropdown_item_1line, alist);
+            ArrayAdapter adapter = new ArrayAdapter(this, android.R.layout.simple_dropdown_item_1line, alist);
             listView.setAdapter(adapter);
 //         }
 //         else
 //         {
 //             Toast.makeText(this,"no match found",Toast.LENGTH_LONG).show();
 //         }
+        }
+        if(v.getId()==R.id.btn_delete_search)
+        {
+            System.out.println("testing block 2:"+s);
+             int i= obj.deleteASingleRecord(s);
+             Toast.makeText(this,i+" record deleted",Toast.LENGTH_LONG).show();
+            finish();
+        }
 
     }
+
 }
