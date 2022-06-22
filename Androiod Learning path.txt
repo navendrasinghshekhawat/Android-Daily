@@ -37,3 +37,19 @@
        32.revision of Complete intent topic
        33.Passing string array to next activity ,using Intent
 
+Fragments
+
+------------Database In Android--------------
+SQLite and Android :
+1. Insert Data
+2. Delete
+3. Update
+4. Search
+5. Viewall...etc.
+---------------------------------------------
+
+Alert Box
+Splash Screen
+Time Picker
+Date Picker
+Calender View........
