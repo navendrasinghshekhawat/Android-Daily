@@ -53,3 +53,5 @@ Splash Screen
 Time Picker
 Date Picker
 Calender View........
+Call Logger
+
